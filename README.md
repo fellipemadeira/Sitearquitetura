@@ -1,5 +1,5 @@
 # Sitearquitetura
-Esse repositório é sobre o desafio do site de arquitetura realizado para a matéria "Introdução ao Desenvolvimento Web"
+Esse repositório é sobre o desafio do site de arquitetura realizado para a matéria "Introdução ao Desenvolvimento Web". No projeto utilizei HTML E CSS.
 
 O site é: https://sitedesafio.netlify.app/
 
